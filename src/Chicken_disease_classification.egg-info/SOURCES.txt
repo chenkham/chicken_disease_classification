@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/Chicken_disease_classification.egg-info/PKG-INFO
+src/Chicken_disease_classification.egg-info/SOURCES.txt
+src/Chicken_disease_classification.egg-info/dependency_links.txt
+src/Chicken_disease_classification.egg-info/top_level.txt
