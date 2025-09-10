@@ -3,7 +3,6 @@ import yaml
 from Chicken_disease_classification import logger
 import json
 import joblib
-# from box import ConfigBox
 # from box.exceptions import BoxValueError
 from box import ConfigBox
 from ensure import ensure_annotations

@@ -12,5 +12,9 @@
 artifacts/*
 
 .venv/
-idea/
+.idea/
 __pycache__/
+Chicken-fecal-images
+artifacts
+
+

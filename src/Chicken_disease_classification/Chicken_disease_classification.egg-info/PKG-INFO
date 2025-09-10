@@ -1,0 +1,30 @@
+Metadata-Version: 2.4
+Name: Chicken_disease_classification
+Version: 0.0.0
+Summary: python package for Chicken_disease_classification
+Home-page: https://github.com/chenkham/Chicken_disease_classification.git
+Author: chenkham
+Author-email: chenkhamchowlu@gmail.com
+Project-URL: Bug Tracker, https://github.com/chenkham/Chicken_disease_classification.issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# chicken_disease_classification
+
+## workflows
+
+1. update config.yaml
+2. update secrets.yaml [optional]
+3. update params.yaml
+4. update the entity
+5. update the configuration manager in scr config
+6. update the components
+7. update the pipeline
+8. update the main.py
+9. update the dvc.yaml
